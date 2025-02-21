@@ -2,8 +2,8 @@
 Data Analysis with SQL
 
 
-Blinkit Analysis
 BUSINESS REQUIREMENT
+
 To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
 KPI’s Requirements
 1.	Total Sales: The overall revenue generated from all items sold.
